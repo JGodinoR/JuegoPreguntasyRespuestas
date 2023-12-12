@@ -29,6 +29,16 @@ public class App {
         respuestas [8]="12";
         preguntas [9]="¿Cuantos dias tiene una semana?";
         respuestas [9]="7";
+        preguntas [10]="¿En que pais estamos?";
+        respuestas [10]="España";
+        preguntas [11]="¿Quien descubrió Ámerica?";
+        respuestas [11]="Cristobal Colón";
+        preguntas [12]="¿Cuantas ruedas tiene un coche?";
+        respuestas [12]="4";
+        preguntas [13]="¿Cuantos tentaculos tiene un pulpo?";
+        respuestas [13]="8";
+        preguntas [14]="¿Cuantas patas tiene un cangrejo?";
+        respuestas [14]="6";
       
         System.out.println("Bienvenido a nuestro juego de preguntas y respuestas");
         System.out.println("Las preguntas cuyas respuestas sean números respondelas con una cifra, no por escrito");
